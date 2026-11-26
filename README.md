@@ -10,6 +10,8 @@ Frontend developer from Turkmenistan · open to remote work
 I build web apps with **React** and **TypeScript** and I'm growing into full-stack: Node.js, Express, PostgreSQL, Prisma.
 I like clean project structure, responsive UI and smooth animations.
 
+🔭 Right now I'm building **tender (procurement) systems** and **logistics platforms**: bidding flows, role-based access, auto-generated contracts, shipments and payments.
+
 ### 🛠 Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,express,postgres,prisma,git,vercel&theme=dark" />
@@ -18,6 +20,7 @@ I like clean project structure, responsive UI and smooth animations.
 
 | Project | What it is | Stack |
 |---|---|---|
+| ⭐ **[Winfinity](https://winfinity-w1ns.vercel.app)** | My biggest pet project. Gamified productivity tracker: tasks and habits give XP, character stats decay without activity, AI mentor suggests daily quests. Try it without signup | React 19 · Zustand · Supabase (Postgres, Auth, RLS) · Gemini · Vercel Functions · Vitest · GitHub Actions |
 | [W1NS beatmaker site](https://w1ns-site.vercel.app) | Music portfolio with a working drum machine on Web Audio API | React · Vite · CSS |
 | [Vortex Logistic](https://vortex-logistic-w1ns.vercel.app) | Landing page for a logistics company | HTML · CSS |
 
