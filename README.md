@@ -37,6 +37,7 @@ Programmer by day, beatmaker by night. I make trap, rage, supertrap and ambient 
 ### 📫 Contact
 
 <a href="mailto:yuriywins@gmail.com"><img src="https://img.shields.io/badge/Email-yuriywins@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>
+<a href="https://www.linkedin.com/in/yuri-w1ns"><img src="https://img.shields.io/badge/LinkedIn-yuri--w1ns-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14" /></a>
 <a href="https://t.me/yuri_w1ns"><img src="https://img.shields.io/badge/Telegram-@yuri__w1ns-0d1117?style=for-the-badge&logo=telegram&logoColor=39ff14" /></a>
 <a href="https://www.instagram.com/yuri_w1ns"><img src="https://img.shields.io/badge/Instagram-@yuri__w1ns-0d1117?style=for-the-badge&logo=instagram&logoColor=39ff14" /></a>
 
